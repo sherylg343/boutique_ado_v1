@@ -27,7 +27,7 @@ SECRET_KEY = 'n-^_s4$!r*bi!zc-_46v-nr*p&@09b2suq%^$n2roe#rr%4_@('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sherylg343-boutique-ad.herokuapp.com', 'localhost' ]
 
 
 # Application definition
